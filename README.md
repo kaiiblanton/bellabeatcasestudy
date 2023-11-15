@@ -1,4 +1,4 @@
-# Bella Beat Case Study
+# Bella Beat Data Analytics Case Study
 
 **Ask:**
 
